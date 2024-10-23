@@ -1,0 +1,11 @@
+{
+  "name": "com.useffarahmand.uservice",
+  "version": "0.1.0",
+  "displayName": "UService",
+  "description": "",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Usef Farahmand"
+  }
+}

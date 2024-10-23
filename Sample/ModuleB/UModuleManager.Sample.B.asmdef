@@ -1,0 +1,19 @@
+{
+    "name": "UModuleManager.Sample.B",
+    "rootNamespace": "UModuleManager.Sample.B",
+    "references": [
+        "GUID:54441452d34676141a5470fda869825d",
+        "GUID:6001c82c92488ba469d409fee8f12262"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
